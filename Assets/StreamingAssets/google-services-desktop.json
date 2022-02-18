@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298166247499",
+    "project_id": "ball-arena",
+    "storage_bucket": "ball-arena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298166247499:android:7f5a30f119992b236cedce",
+        "android_client_info": {
+          "package_name": "com.arcturus.mayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298166247499-isi679cvm4prjb9c6jkuehqoaa9dv2km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfqmfcFFVkxCeDCAdFZQqD3wu4BB75ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298166247499-isi679cvm4prjb9c6jkuehqoaa9dv2km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

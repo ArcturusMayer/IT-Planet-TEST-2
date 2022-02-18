@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">298166247499</string>
+  <string name="google_storage_bucket" translatable="false">ball-arena.appspot.com</string>
+  <string name="project_id" translatable="false">ball-arena</string>
+  <string name="google_api_key" translatable="false">AIzaSyDvfqmfcFFVkxCeDCAdFZQqD3wu4BB75ro</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvfqmfcFFVkxCeDCAdFZQqD3wu4BB75ro</string>
+  <string name="google_app_id" translatable="false">1:298166247499:android:7f5a30f119992b236cedce</string>
+  <string name="default_web_client_id" translatable="false">298166247499-isi679cvm4prjb9c6jkuehqoaa9dv2km.apps.googleusercontent.com</string>
+</resources>
